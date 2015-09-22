@@ -4,7 +4,7 @@ _Applies to: Excel 2016, Office 2016_
 
 The steps below walk you through building a simple Excel task pane add-in that loads some data into a worksheet and creates a basic chart.
 
-![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.png)
+![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.PNG)
 
 
 You’ll start by creating a web app using HTML and JQuery. Then you'll create an XML manifest file that specifies where you want to locate your web app, and how it should appear within Excel. 
@@ -197,10 +197,10 @@ The simplest way to deploy and test your add-in is to copy the files to a networ
     2.  In the **Office Add-ins** dialog box, choose **Shared Folder**.
     3.  Choose **Quarterly Sales Report Sample**>**Insert**.The add-in opens in a task pane to the right of the current worksheet, as shown in the following figure. 
         
-        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_taskpane.png)
+        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_taskpane.PNG)
     5.  Click the **Click me!** button to render the data and the chart inside the worksheet, as shown in the following figure.  To see the chart update dynamically, just change the data in the range. 
         
-        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.png)
+        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.PNG)
 
 ### Learn more
 
