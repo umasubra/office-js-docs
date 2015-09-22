@@ -1,4 +1,4 @@
-# Build your First Excel Add-in
+# Build your first excel add-in
 
 _Applies to: Excel 2016, Office 2016_
 
@@ -196,6 +196,6 @@ The Excel JavaScript APIs have much more to offer you as you develop add-ins. Th
 
 Here are just a few:
 
-1.  [Excel Add-ins Programming Overview](excel-add-ins-programming-overview.md)
-2.  [Excel Add-ins Code Samples](excel-add-ins-code-samples.md) 
+1.  [Excel Add-ins programming overview](excel-add-ins-programming-overview.md)
+2.  [Excel Add-ins code samples](excel-add-ins-code-samples.md) 
 3.  [Excel Add-ins JavaScript API Reference](excel-add-ins-javascript-reference.md)

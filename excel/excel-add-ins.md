@@ -26,7 +26,7 @@ The following are just a few of the available resources to help you get started 
 
 Here are just a few:
 
-1.  [Build Your First Excel Add-iniew](build-your-first-excel-add-in.md)
-1.  [Excel Add-ins Programming Overview](excel-add-ins-programming-overview.md)
-2.  [Excel Add-ins Code Samples](excel-add-ins-code-samples.md) 
+1.  [Build your first Excel Add-in](build-your-first-excel-add-in.md)
+1.  [Excel Add-ins programming overview](excel-add-ins-programming-overview.md)
+2.  [Excel Add-ins code samples](excel-add-ins-code-samples.md) 
 3.  [Excel Add-ins JavaScript API Reference](excel-add-ins-javascript-reference.md)
