@@ -1,8 +1,8 @@
-# Excel add-in code samples
+# Excel Add-in code samples
 
 _Applies to: Excel 2016_
 
-The add-in code samples that use the JavaScript API in Excel 2016 are listed below for quick reference. New samples are added frequently, so check back often.
+Add-in code samples that use the JavaScript API in Excel 2016 are listed below for quick reference. New samples are added frequently, so check back often.
 
 **[Excel-Add-in-JS-QuarterlySalesReport](https://github.com/OfficeDev/Excel-Add-in-JS-QuarterlySalesReport)** : A simple task pane add-in that loads some data into a worksheet and creates a basic chart in Excel 2016. 
 

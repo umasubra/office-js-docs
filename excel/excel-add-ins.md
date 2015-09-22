@@ -1,8 +1,8 @@
-# Excel add-ins
+# Excel Add-ins
 
 _Applies to: Excel 2016, Office 2016_
 
-An Excel add-in is simply a web app that you can run inside of Excel and use to interact with the contents of a workbook by using the new Excel JavaScript APIs in Office 2016. An add-in manifest file (manifest.xml) specifies where your web app is located and how to display it in Excel.
+An Excel Add-in is simply a web app that you can run inside of Excel and use to interact with the contents of a workbook by using the new Excel JavaScript APIs in Office 2016. An add-in manifest file (manifest.xml) specifies where your web app is located and how to display it in Excel.
   
 >**Excel add-in = manifest.xml + your own web app**
 

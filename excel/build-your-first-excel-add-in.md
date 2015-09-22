@@ -1,4 +1,4 @@
-# Build your first excel add-in
+# Build your first Excel Add-in
 
 _Applies to: Excel 2016, Office 2016_
 
@@ -173,22 +173,34 @@ You’ll start by creating a web app using HTML and JQuery. Then you'll create a
 
 The simplest way to deploy and test your add-in is to copy the files to a network share.
 
-1.  Create a folder on a network share (for example, \\MyShare\QuarterlySalesReport) and copy all the files.   
+1.  Create a folder on a network share (for example, \\MyShare\QuarterlySalesReport) and copy all the files.  
+
 2.  Edit the <SourceLocation> element of the manifest file so that it points to the share location for the .html page from step 1. 
+
 3.  Copy the manifest (QuarterlySalesReportManifest.xml) to a network share (for example, \\MyShare\MyManifests).
+
 4.  Add the share location that contains the manifest as a trusted app catalog in Excel.
-	    1. 	Launch Excel.
-	    2. Choose the **File** tab, and then choose **Options**.
-	    3. Choose **Trust Center**, and then choose the **Trust Center Settings** button.
-	    4. 	Choose **Trusted App Catalogs**.
-	    5. 	In the **Catalog Url** box, enter the path to the network share you created in step 1, and then choose **Add Catalog**.
-	    6.  Select the **Show in Menu** check box, and then choose **OK**. A message appears to inform you that your settings will be applied the next time you start Office.
+    1.  Launch Excel.  
+    
+    2.  Choose the **File** tab, and then choose **Options**.
+    
+    3.  Choose **Trust Center**, and then choose the **Trust Center Settings** button.
+    
+    4.  Choose **Trusted App Catalogs**.
+    
+    5.  In the **Catalog Url** box, enter the path to the network share you created in step 1, and then choose **Add Catalog**.
+    
+    6.  Select the **Show in Menu** check box, and then choose **OK**. A message appears to inform you that your settings will be applied the next time you start Office. 
         
 5.  Test and run the add-in. 
     1.  On the **Insert tab** in Excel 2016, choose **My Add-ins**. 
     2.  In the **Office Add-ins** dialog box, choose **Shared Folder**.
-    3.  Choose **Quarterly Sales Report Sample**>**Insert**.The add-in opens in a task pane to the right of the current worksheet, as shown in the following figure.  ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_taskpane.png)
-    5.  Click the **Click me!** button to render the data and the chart inside the worksheet, as shown in the following figure.  To see the chart update dynamically, just change the data in the range. ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.png)
+    3.  Choose **Quarterly Sales Report Sample**>**Insert**.The add-in opens in a task pane to the right of the current worksheet, as shown in the following figure. 
+        
+        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_taskpane.png)
+    5.  Click the **Click me!** button to render the data and the chart inside the worksheet, as shown in the following figure.  To see the chart update dynamically, just change the data in the range. 
+        
+        ![Quarterly Sales Report Add-in](images/QuarterlySalesReport_report.png)
 
 ### Learn more
 
