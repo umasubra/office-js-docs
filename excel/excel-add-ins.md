@@ -27,6 +27,7 @@ The following are just a few of the available resources to help you get started 
 Here are just a few:
 
 1.  [Build your first Excel Add-in](build-your-first-excel-add-in.md)
+2.  [Snippet Explorer for Excel]((http://officesnippetexplorer.azurewebsites.net/#/snippets/excel)
 1.  [Excel Add-ins programming overview](excel-add-ins-programming-overview.md)
 2.  [Excel Add-ins code samples](excel-add-ins-code-samples.md) 
 3.  [Excel Add-ins JavaScript API Reference](excel-add-ins-javascript-reference.md)
