@@ -10,6 +10,8 @@ Explore the documents here:
 
 ## Try it out
 
+## ![](~WRS%7bCD5C6AA1-1D2F-4DAB-8028-23C1F34C0B0F%7d_files/image001.jpg)
+
 We've been working on a Snippet Explorer to let you browse through code snippets for common scenarios and learn how the new APIs work. Explore them [here](https://github.com/OfficeDev/office-js-snippet-explorer).
 
 ## Give us your feedback
