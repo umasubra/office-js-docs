@@ -1,7 +1,7 @@
 
 Edited this file
 
-![](~WRS%7b08909F48-0FD6-4C4E-8305-266B7D7BEB6A%7d_files/image001.jpg)
+![](images/image1467847093068.Jpeg)
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
