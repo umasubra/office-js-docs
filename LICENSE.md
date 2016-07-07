@@ -1,4 +1,6 @@
 
+![](~WRS%7bDF9DE9A9-92F6-45C5-AE12-2FCBE9EE5577%7d_files/image001.jpg)
+
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
