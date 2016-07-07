@@ -1,5 +1,5 @@
 
-![WoodGrove Bank Expense Trends Add-in - Donations Tracker] (images/image1467918873094.Jpeg)
+[![WoodGrove Bank Expense Trends Add-in - Donations Tracker](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467918873094.Jpeg)](images/image1467918873094.Jpeg)
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
@@ -10,3 +10,5 @@ Copyright (c) Microsoft Corporation. Distributed under the following terms:
 2.     Microsoft, Microsoft Office, Office 365, Windows, Windows Azure and/or other Microsoft products and services referenced in the documentation may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. This license does not grant you rights to use any names, logos, or trademarks. For Microsoft’s general trademark guidelines, go to [http://go.microsoft.com/fwlink/?LinkID=254653](http://go.microsoft.com/fwlink/?LinkID=254653).
 
 Microsoft and any contributors reserves all others rights, whether under copyrights, patents, or trademarks, or by implication, estoppel or otherwise.
+
+[![](~WRS%7b002EE712-D1BB-454B-96E0-7B16F638F853%7d_files/image001.jpg)](images/image1467922938795.Jpeg)
