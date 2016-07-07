@@ -1,5 +1,5 @@
 
-![](~WRS%7bDF9DE9A9-92F6-45C5-AE12-2FCBE9EE5577%7d_files/image001.jpg)
+![WoodGrove Bank Expense Trends Add-in - Donations Tracker] (images/image1467918873094.Jpeg)
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
