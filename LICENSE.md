@@ -1,12 +1,4 @@
 
-Edited this file
-
-![](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/images/image1467851432594.Jpeg)
-
-inserted
-
-[![https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467847093068.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467847093068.Jpeg)](images/image1467847093068.Jpeg)
-
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
