@@ -1,7 +1,11 @@
 
 Edited this file
 
-![](images/image1467847093068.Jpeg)
+![](~WRS%7bE041D719-6799-4BDA-A879-7A3017BAEAE7%7d_files/image001.jpg)
+
+inserted
+
+[![https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467847093068.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467847093068.Jpeg)](images/image1467847093068.Jpeg)
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
