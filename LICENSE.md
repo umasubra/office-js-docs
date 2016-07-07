@@ -1,7 +1,7 @@
 
 Edited this file
 
-![](~WRS%7bE041D719-6799-4BDA-A879-7A3017BAEAE7%7d_files/image001.jpg)
+![](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/images/image1467851432594.Jpeg)
 
 inserted
 
