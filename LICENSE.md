@@ -1,6 +1,8 @@
 
 [![WoodGrove Bank Expense Trends Add-in - Donations Tracker](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1467918873094.Jpeg)](images/image1467918873094.Jpeg)
 
+[![Title: images/image1468013488623.Jpeg](~WRS%7b89519728-EB2B-4CBE-83CA-8857C8E8DB78%7d_files/image001.png)](images/image1468013488623.Jpeg)
+
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
