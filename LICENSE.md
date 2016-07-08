@@ -1,8 +1,6 @@
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
-[![Title: images/image1468017368195.Jpeg](~WRS%7b7DC1EBD3-A20F-4B3B-A3CD-2AADB932FB3B%7d_files/image001.png)](images/image1468017368195.Jpeg)
-
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
 
 1.        Microsoft and any contributors to this project each grants you a license, under its respective copyrights, to the Microsoft Office Documentation under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode). In addition, with respect to any sample code contained in the documentation, Microsoft and any such contributors grants you an additional license, under its respective intellectual property rights, to use the code to develop or design your software for Microsoft Office and/or Office 365.
