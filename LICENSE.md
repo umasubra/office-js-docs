@@ -1,4 +1,7 @@
+
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
+
+[![Title: images/image1468017368195.Jpeg](~WRS%7b7DC1EBD3-A20F-4B3B-A3CD-2AADB932FB3B%7d_files/image001.png)](images/image1468017368195.Jpeg)
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
 
