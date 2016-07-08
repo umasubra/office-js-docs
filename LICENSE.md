@@ -1,7 +1,7 @@
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
-[![Title: images/image1468018141462.Jpeg](~WRS%7b8DFCD942-8FE0-458C-829D-84C62FE38F02%7d_files/image001.png)](images/image1468018141462.Jpeg)
+[![images/image1468018141462.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468018141462.Jpeg)](images/image1468018141462.Jpeg)
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
 
