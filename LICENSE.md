@@ -1,11 +1,6 @@
-
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
-[![images/image1468018141462.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468018141462.Jpeg)](images/image1468018141462.Jpeg)
-
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
-
-[![Title: images/image1468018318880.Jpeg](~WRS%7bD1E18444-1700-4B3A-8D38-7A48BB673D7B%7d_files/image001.png)](images/image1468018318880.Jpeg)
 
 1.        Microsoft and any contributors to this project each grants you a license, under its respective copyrights, to the Microsoft Office Documentation under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode). In addition, with respect to any sample code contained in the documentation, Microsoft and any such contributors grants you an additional license, under its respective intellectual property rights, to use the code to develop or design your software for Microsoft Office and/or Office 365.
 
