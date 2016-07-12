@@ -14,6 +14,8 @@ Explore the documents here:
 
 We've been working on a Snippet Explorer to let you browse through code snippets for common scenarios and learn how the new APIs work. Explore them [here](https://github.com/OfficeDev/office-js-snippet-explorer).
 
+[![Title: images/image1468352212499.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468352212499.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468352212499.Jpeg)
+
 ## Give us your feedback
 
 Your feedback is important to us.
