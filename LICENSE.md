@@ -5,6 +5,8 @@ Welcome to the Office JavaScript API (Preview) documentation. Here you can find 
 
 Uma added some text.
 
+[![Title: images/image1468363213891.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)
+
 Explore the documents here:
 
 *   [Excel Docs](excel)
