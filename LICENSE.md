@@ -9,9 +9,9 @@ Uma added some text.
 
 Explore the documents here:
 
-·        Excel docs
+·<span></span> Excel docs
 
-·        Word docs
+·<span></span> Word docs
 
 ## Try it out
 
