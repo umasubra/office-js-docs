@@ -11,11 +11,11 @@ Explore the documents here:
 
 ·<span></span> Excel docs
 
-o<span></span> U
+   o<span></span> U
 
-o<span></span> M
+   o<span></span> M
 
-o<span></span> A
+   o<span></span> A
 
 ·<span></span> Word docs
 
