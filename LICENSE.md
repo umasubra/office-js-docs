@@ -10,9 +10,9 @@ Uma added some text.
 Explore the documents here:
 
 * Excel
-*  U
-*  M
-*  A
+ *  U
+ *  M
+ *  A
 * Word
 
 ## Try it out
