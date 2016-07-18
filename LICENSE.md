@@ -9,15 +9,9 @@ Uma added some text.
 
 Explore the documents here:
 
-·<span></span> [Excel Docs](excel)
+·        Excel docs
 
-o<span></span> A
-
-*   B
-
-o<span></span> C
-
-·<span></span> [Word Docs](word)
+·        Word docs
 
 ## Try it out
 
