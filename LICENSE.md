@@ -9,13 +9,15 @@ Uma added some text.
 
 Explore the documents here:
 
-*   [Excel Docs](excel)
+·<span></span> [Excel Docs](excel)
 
-*   A
+o<span></span> A
+
 *   B
-*   C
 
-*   [Word Docs](word)
+o<span></span> C
+
+·<span></span> [Word Docs](word)
 
 ## Try it out
 
