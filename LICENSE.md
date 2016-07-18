@@ -9,16 +9,10 @@ Uma added some text.
 
 Explore the documents here:
 
-·<span></span> Excel
-
-o<span></span> U
-
-*   M
-*   A
-
-o<span></span> S
-
-·<span></span> Word
+* Excel
+    *   1.1
+    *   1.2
+* Word
 
 ## Try it out
 
