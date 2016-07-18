@@ -9,10 +9,12 @@ Uma added some text.
 
 Explore the documents here:
 
-* Excel
-    *   1.1
-    *   1.2
-* Word
+*   Excel
+
+*   1.1
+*   1.2
+
+*   Word
 
 ## Try it out
 
