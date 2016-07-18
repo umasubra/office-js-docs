@@ -10,8 +10,11 @@ Uma added some text.
 Explore the documents here:
 
 *   [Excel Docs](excel)
- * A
- * B
+
+*   A
+*   B
+*   C
+
 *   [Word Docs](word)
 
 ## Try it out
