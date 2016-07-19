@@ -9,6 +9,10 @@ Uma added some text.
 
 Explore the documents here:
 
+·<span></span> Uma
+
+·<span></span> Srinath
+
 ## Try it out
 
 We've been working on a Snippet Explorer to let you browse through code snippets for common scenarios and learn how the new APIs work. Explore them [here](https://github.com/OfficeDev/office-js-snippet-explorer).
