@@ -11,19 +11,19 @@ Explore the documents here:
 
 1. Excel
 
-a.      JS
+     a. JS
 
-b.     REST
+    b. REST
 
 2. Word
 
-a.      JS
+     a. JS
 
-b.     REST
+    b. REST
 
 3. PowerPoint
 
-a.      JS
+     a. JS
 
 ## Try it out
 
