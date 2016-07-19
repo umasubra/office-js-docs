@@ -10,8 +10,8 @@ Uma added some text.
 Explore the documents here:
 
 1. Excel
-   a. JS
-   b. REST
+    1. JS
+    2. REST
 2. Word
 3. PowerPoint
 
