@@ -9,13 +9,13 @@ Uma added some text.
 
 Explore the documents here:
 
-·<span></span> Excel
+· Excel
 
 *   1.1
 *   1.2
 *   1.3
 
-·<span></span> Word
+· Word
 
 ## Try it out
 
