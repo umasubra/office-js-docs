@@ -9,11 +9,13 @@ Uma added some text.
 
 Explore the documents here:
 
-* Excel
-    * REST
-    * JavaScript
-* Word
+*   Excel
 
+ *   REST
+ *   JavaScript
+ *   VSTO
+
+*   Word
 
 ## Try it out
 
