@@ -13,6 +13,7 @@ Explore the documents here:
 
 *   1.1
 *   1.2
+*   1.3
 
 ·<span></span> Word
 
