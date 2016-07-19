@@ -9,14 +9,16 @@ Uma added some text.
 
 Explore the documents here:
 
-1.  Excel
+1.     Excel
 
     1.  JS
     2.  REST
     3.  VSTO
+    4.  Dog
 
-3.  Word
-4.  PowerPoint
+2.     Word
+
+1.  PowerPoint
 
 ## Try it out
 
