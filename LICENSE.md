@@ -9,19 +9,19 @@ Uma added some text.
 
 Explore the documents here:
 
-1.     Excel
+1. Excel
 
 a.      JS
 
 b.     REST
 
-2.     Word
+2. Word
 
 a.      JS
 
 b.     REST
 
-3.     PowerPoint
+3. PowerPoint
 
 a.      JS
 
