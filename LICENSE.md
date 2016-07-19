@@ -10,20 +10,10 @@ Uma added some text.
 Explore the documents here:
 
 1. Excel
-
-     a. JS
-
-    b. REST
-
+   a. JS
+   b. REST
 2. Word
-
-     a. JS
-
-    b. REST
-
 3. PowerPoint
-
-     a. JS
 
 ## Try it out
 
