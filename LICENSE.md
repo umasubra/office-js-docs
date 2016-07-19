@@ -9,9 +9,9 @@ Uma added some text.
 
 Explore the documents here:
 
-·<span></span> Uma
+·<span></span> One
 
-·<span></span> Srinath
+·<span></span> Two
 
 ## Try it out
 
