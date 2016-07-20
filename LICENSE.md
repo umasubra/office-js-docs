@@ -9,13 +9,13 @@ Uma added some text.
 
 Explore the documents here:
 
-·        One
+·<span></span> One
 
-·        Two
-
-o<span></span> Three
+·<span></span> Two
 
 o<span></span> Four
+
+o<span></span> Three
 
 ## Try it out
 
