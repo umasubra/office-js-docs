@@ -3,19 +3,23 @@
 
 Welcome to the Office JavaScript API (Preview) documentation. Here you can find everything you need to create the next generation of Excel and Word add-ins in Office 2016 Preview for Windows. The new APIs provide a variety of Excel and Word application-specific functionality and complements features present in existing Office.js library.
 
+Code
+
+`npm start`
+
 Uma added some text.
 
 [![Title: images/image1468363213891.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)
 
 Explore the documents here:
 
-*   Excel
+·<span></span> Excel
 
  *   1.1
  *   1.2
  *   1.3
 
-*   Word
+·<span></span> Word
 
  *   1.1
  *   1.2
