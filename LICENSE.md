@@ -8,6 +8,13 @@ Uma added some text.
 [![Title: images/image1468363213891.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1468363213891.Jpeg)
 
 Explore the documents here:
+* Excel
+ * 1.1
+ * 1.2
+* Word
+ * 1.1
+ * 1.2
+ * 1.3
 
 ## Try it out
 
