@@ -9,14 +9,6 @@ Uma added some text.
 
 Explore the documents here:
 
-·<span></span> [One](bing.com)
-
-·<span></span> [Two](google.com)
-
-o<span></span> [Three](bing.com)
-
-o<span></span> [Four](google.com)
-
 ## Try it out
 
 We've been working on a Snippet Explorer to let you browse through code snippets for common scenarios and learn how the new APIs work. Explore them [here](https://github.com/OfficeDev/office-js-snippet-explorer).
